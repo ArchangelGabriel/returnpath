@@ -1,0 +1,101 @@
+.App {
+
+}
+
+.table {
+  width: 100%;
+  table-layout: fixed;
+  /*border-collapse: collapse;*/
+
+  /*border: 1px solid black;*/
+}
+
+.table__checked td:not(:first-child) {
+  background: white;
+}
+
+.table__unchecked td:not(:first-child) {
+
+}
+
+tr, td, th {
+  /*border: 1px solid black;*/
+  padding: 1.2em;
+  text-align: left;
+  background: #F5F5F5;
+}
+
+tbody {
+  font-size: 0.9em;
+}
+
+.table__organize {
+  width: 7em;
+  text-align: center;
+}
+
+.table__folder {
+  width: 100px;
+}
+
+.filters {
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+  background: #E5E5E5;
+}
+
+.filters__folder {
+  border: 1px solid #111;
+  background: #F8F8F8;
+  font-size: 0.9em;
+  border: 1px solid #ccc;
+  width: 200px;
+}
+
+.filters__text__input {
+  left: -1em;
+  height: 2.5em;
+  width: 300px;
+}
+
+.highlight {
+  background: yellow;
+}
+
+.Business {
+  border-right: 5px solid #92a8d1;
+}
+.Home {
+  border-right: 5px solid #034f84;
+}
+.Finance {
+  border-right: 5px solid #f7cac9;
+}
+.Education {
+  border-right: 5px solid #f7786b;
+}
+.RealEstate {
+  border-right: 5px solid #deeaee;
+}
+.Travel {
+  border-right: 5px solid #b1cbbb;
+}
+.Entertainment {
+  border-right: 5px solid #eea29a;
+}
+.SocialNetworking {
+  border-right: 5px solid #c94c4c;
+}
+.News {
+  border-right: 5px solid #ffef96;
+}
+.Jobs {
+  border-right: 5px solid #50394c;
+}
+.Shopping {
+  border-right: 5px solid #b2b2b2;
+}
+.Groups {
+  border-right: 5px solid #f4e1d2;
+}
