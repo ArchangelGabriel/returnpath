@@ -21,4 +21,4 @@ http-server
 1. Customizable fields
 2. Ability to change view type (Table, GridView or ListView)
 
-View it at: http://returnpath-challenge.s3-website-us-east-1.amazonaws.com
+View the demo at: http://gabe-table-template.s3-website-us-east-1.amazonaws.com
