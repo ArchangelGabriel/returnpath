@@ -1,5 +1,5 @@
 .App {
-
+  padding: 1em 2em;
 }
 
 .table {
@@ -64,38 +64,38 @@ tbody {
 }
 
 .Business {
-  border-right: 5px solid #92a8d1;
+  border-right: 10px solid #92a8d1;
 }
 .Home {
-  border-right: 5px solid #034f84;
+  border-right: 10px solid #034f84;
 }
 .Finance {
-  border-right: 5px solid #f7cac9;
+  border-right: 10px solid #f7cac9;
 }
 .Education {
-  border-right: 5px solid #f7786b;
+  border-right: 10px solid #f7786b;
 }
 .RealEstate {
-  border-right: 5px solid #deeaee;
+  border-right: 10px solid #deeaee;
 }
 .Travel {
-  border-right: 5px solid #b1cbbb;
+  border-right: 10px solid #b1cbbb;
 }
 .Entertainment {
-  border-right: 5px solid #eea29a;
+  border-right: 10px solid #eea29a;
 }
 .SocialNetworking {
-  border-right: 5px solid #c94c4c;
+  border-right: 10px solid #c94c4c;
 }
 .News {
-  border-right: 5px solid #ffef96;
+  border-right: 10px solid #ffef96;
 }
 .Jobs {
-  border-right: 5px solid #50394c;
+  border-right: 10px solid #50394c;
 }
 .Shopping {
-  border-right: 5px solid #b2b2b2;
+  border-right: 10px solid #b2b2b2;
 }
 .Groups {
-  border-right: 5px solid #f4e1d2;
+  border-right: 10px solid #f4e1d2;
 }
